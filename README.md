@@ -1,5 +1,7 @@
-# Photopea Offline
-
+# Photopea Offline Linux
+# TUTORIAL:
+  https://github.com/gghostl/Photopea-Offline-Linux-App
+#
 ## Why I made this
 The creator of [Photopea](https://www.photopea.com/), a great free alternative to Photoshop, is not interested on making an offline version, so I took it upon myself to make it.
 
